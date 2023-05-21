@@ -1,4 +1,6 @@
 # Poker Game + Equity Calculator
 
-Supports automatic hand evaluation, bet size regulation, hand history tracking, customizeable
-game settings, and includes multiple variants(game modes) including Hold ’em, Omaha and Short Deck.
+Description
+This project is a Poker Game and Equity Calculator, designed to simulate poker hands and calculate the equity for each player involved. It allows users to play Texas Hold'em poker games against computer-controlled opponents and provides real-time equity calculations for each player's hand.
+
+
