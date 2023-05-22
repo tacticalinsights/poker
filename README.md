@@ -30,4 +30,4 @@ This program offers an interactive textual interface, allowing players to enjoy 
 ## Requirements
 
 - Jupyter
-- Python
+- Python 3.x
